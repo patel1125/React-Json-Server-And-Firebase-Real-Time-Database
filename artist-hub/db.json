@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": "47c6",
+      "name": "megha",
+      "email": "meghapatel112317@gmail.com",
+      "password": "123456",
+      "role": "artist"
+    },
+    {
+      "id": "923d",
+      "name": "megha",
+      "email": "meghapatel112317@gmail.com",
+      "password": "123456",
+      "role": "artist"
+    },
+    {
+      "id": "749c",
+      "name": "megha",
+      "email": "meghapatel112317@gmail.com",
+      "password": "123456",
+      "role": "viewer"
+    },
+    {
+      "id": "8fd7",
+      "name": "megha",
+      "email": "meghapatel112317@gmail.com",
+      "password": "123456",
+      "role": "viewer"
+    },
+    {
+      "id": "4822",
+      "name": "megha",
+      "email": "meghapatel112317@gmail.com",
+      "password": "123456",
+      "role": "artist"
+    },
+    {
+      "id": "4e19",
+      "name": "megha",
+      "email": "meghapatel112317@gmail.com",
+      "password": "123456",
+      "role": "viewer"
+    },
+    {
+      "id": "fd90",
+      "name": "megha",
+      "email": "meghapatel112317@gmail.com",
+      "password": "123456",
+      "role": "viewer"
+    },
+    {
+      "id": "40ea",
+      "name": "megha",
+      "email": "meghapatel112317@gmail.com",
+      "password": "123456",
+      "role": "viewer"
+    }
+  ],
+  "arts": [
+    {
+      "id": "3536",
+      "title": "paniting",
+      "image": "https://www.google.com/imgres?q=painting&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91E730I0fjL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FBeautiful-Landscapes-Acrylic-Painting-Stretched%2Fdp%2FB09L552K3L&docid=pEG1qlAZfj4-zM&tbnid=UkYXSEBWCPUMrM&vet=12ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA..i&w=1961&h=2560&hcb=2&ved=2ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA"
+    },
+    {
+      "id": "7440",
+      "title": "carving",
+      "image": "https://www.google.com/imgres?q=carving&imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0583%2F8992%2F1999%2Ffiles%2FDownloader.la_-643966c64ac22_600x600.jpg%3Fv%3D1681483513&imgrefurl=https%3A%2F%2Fstryicarvingtools.com%2Fblogs%2Fnews%2Fthe-best-wood-carving-tools-for-fine-details%3Fsrsltid%3DAfmBOoqGgvd5yRb0ThE7Ub1G07Kiy-oZiPMadIxhLyBIChGyQy1jUA_Q&docid=xo0IaQq59QkwVM&tbnid=ABprfOrCT83PaM&vet=12ahUKEwjXnb2it_GQAxXvg2MGHaJuF-oQM3oECBMQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwjXnb2it_GQAxXvg2MGHaJuF-oQM3oECBMQAA"
+    }
+  ],
+  "cart": [
+    {
+      "id": "7440",
+      "title": "carving",
+      "image": "https://www.google.com/imgres?q=carving&imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0583%2F8992%2F1999%2Ffiles%2FDownloader.la_-643966c64ac22_600x600.jpg%3Fv%3D1681483513&imgrefurl=https%3A%2F%2Fstryicarvingtools.com%2Fblogs%2Fnews%2Fthe-best-wood-carving-tools-for-fine-details%3Fsrsltid%3DAfmBOoqGgvd5yRb0ThE7Ub1G07Kiy-oZiPMadIxhLyBIChGyQy1jUA_Q&docid=xo0IaQq59QkwVM&tbnid=ABprfOrCT83PaM&vet=12ahUKEwjXnb2it_GQAxXvg2MGHaJuF-oQM3oECBMQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwjXnb2it_GQAxXvg2MGHaJuF-oQM3oECBMQAA"
+    },
+    {
+      "id": "3536",
+      "title": "paniting",
+      "image": "https://www.google.com/imgres?q=painting&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91E730I0fjL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FBeautiful-Landscapes-Acrylic-Painting-Stretched%2Fdp%2FB09L552K3L&docid=pEG1qlAZfj4-zM&tbnid=UkYXSEBWCPUMrM&vet=12ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA..i&w=1961&h=2560&hcb=2&ved=2ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA"
+    },
+    {
+      "id": "3536",
+      "title": "paniting",
+      "image": "https://www.google.com/imgres?q=painting&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91E730I0fjL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FBeautiful-Landscapes-Acrylic-Painting-Stretched%2Fdp%2FB09L552K3L&docid=pEG1qlAZfj4-zM&tbnid=UkYXSEBWCPUMrM&vet=12ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA..i&w=1961&h=2560&hcb=2&ved=2ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA"
+    },
+    {
+      "id": "3536",
+      "title": "paniting",
+      "image": "https://www.google.com/imgres?q=painting&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91E730I0fjL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FBeautiful-Landscapes-Acrylic-Painting-Stretched%2Fdp%2FB09L552K3L&docid=pEG1qlAZfj4-zM&tbnid=UkYXSEBWCPUMrM&vet=12ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA..i&w=1961&h=2560&hcb=2&ved=2ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA"
+    },
+    {
+      "id": "3536",
+      "title": "paniting",
+      "image": "https://www.google.com/imgres?q=painting&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91E730I0fjL.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FBeautiful-Landscapes-Acrylic-Painting-Stretched%2Fdp%2FB09L552K3L&docid=pEG1qlAZfj4-zM&tbnid=UkYXSEBWCPUMrM&vet=12ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA..i&w=1961&h=2560&hcb=2&ved=2ahUKEwj30I_hgfGQAxUozzgGHRjSIjQQM3oECBoQAA"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+/* src/index.css */
+:root{
+  --primary:#0288d1;
+  --card-radius:18px;
+}
+
+body {
+  font-family: 'Poppins', system-ui, Arial, sans-serif;
+  background: linear-gradient(135deg,#e1f5fe 0%, #b3e5fc 100%);
+  margin:0;
+  min-height:100vh;
+  color:#212121;
+}
+
+/* centered auth card */
+.auth-container{
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:48px 16px;
+}
+.auth-card{
+  width:100%;
+  max-width:420px;
+  background:#fff;
+  border-radius:var(--card-radius);
+  padding:28px;
+  box-shadow:0 10px 30px rgba(2,40,81,0.12);
+}
+
+.btn-primary { background: var(--primary); border: none; }
+.btn-primary:hover { background: #0277bd; }
+
+/* page containers */
+.container-page { padding:40px 16px; }
+.card-radius { border-radius:12px; }
+
+/* small helpers */
+.form-control, .form-select { border-radius:8px; }
+
+.navbar-brand { font-weight:600; color: #01579b !important; }
